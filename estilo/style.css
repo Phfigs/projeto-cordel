@@ -82,12 +82,12 @@ section.imagem > p {
 }
 
 section#img01{
-    background: url('../imagens/background001.jpg') right center no-repeat fixed ;
+    background: url('../imagens/background001.jpg')center no-repeat fixed ;
     background-size: cover;
 }
 
 section#img02{
-    background: url('../imagens/background002.jpg') right center no-repeat fixed ;
+    background: url('../imagens/background002.jpg')center no-repeat fixed ;
     background-size: cover;
 }
 
